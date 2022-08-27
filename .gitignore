@@ -3,3 +3,5 @@ debug.html
 node_modules
 yarn-error.log
 images
+yarn.lock
+blockmall.png

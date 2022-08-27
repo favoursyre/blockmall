@@ -2,7 +2,7 @@
 
 ![alt text](https://drive.google.com/uc?export=download&id=1b0x92LiROUJLGlDaXXy88a5sefWyYbZz)
 
-[Surf Blockmall](blockmall.herokuapp.com)
+[Visit Blockmall](blockmall.herokuapp.com)
 
 ## Table of Contents
 

@@ -4,9 +4,6 @@ import Header from "../components/Header";
 import Footer_ from "../components/Footer";
 import "./Home.css";
 import { Carousel, Card } from "antd";
-import Carousel1 from "../images/image4.jpg";
-import Carousel2 from "../images/image2.jpg";
-import Carousel3 from "../images/image3.jpg";
 
 const carousel = [
   "https://drive.google.com/uc?export=download&id=1XQf579_H1uH8R1xssiig1fiG2BOGXaSF",
